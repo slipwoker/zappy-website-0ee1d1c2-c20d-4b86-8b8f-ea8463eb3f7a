@@ -7,77 +7,77 @@
 ## Pages
 
 ### Home
-https://mikeygoldgrid-0ee1d1c2.zappy5.app
+https://example.com
 Unlock hands-free gold trading with MikeyGoldGrid, the elite MT5 trading robot engineered for XAUUSD. Harness a data-driven grid strategy for consistent returns. Start your automated edge today.
 
 ### Performance
-https://mikeygoldgrid-0ee1d1c2.zappy5.app/performance
+https://example.com/performance
 Dive into verified, real-time performance metrics of our MT5 trading robot on XAUUSD. See win rates, drawdowns, and monthly gains that prove algorithmic precision. Review the data now.
 
 ### Setup
-https://mikeygoldgrid-0ee1d1c2.zappy5.app/setup
+https://example.com/setup
 Get your MT5 trading robot running on XAUUSD with our foolproof setup guide. From installation to first trade, launch your gold trading bot and let automation work while you sleep.
 
 ### FAQ
-https://mikeygoldgrid-0ee1d1c2.zappy5.app/faq
+https://example.com/faq
 Get clear answers on how our MT5 trading robot navigates XAUUSD volatility. Explore risk logic, grid mechanics, and capital requirements so you can trade with total confidence. Learn more.
 
 ### Support
-https://mikeygoldgrid-0ee1d1c2.zappy5.app/support
+https://example.com/support
 Connect with elite traders and our expert team for seamless MT5 trading robot support. From optimization tips to technical fixes, we keep your XAUUSD automation running flawlessly. Get help now.
 
 ### Contact
-https://mikeygoldgrid-0ee1d1c2.zappy5.app/contact
+https://example.com/contact
 Ready to elevate your XAUUSD strategy? Reach out to the minds behind MikeyGoldGrid, the premier MT5 trading robot. Let&#39;s discuss custom solutions, partnerships, or your trading goals. Inquire today.
 
 ### Products
-https://mikeygoldgrid-0ee1d1c2.zappy5.app/products
+https://example.com/products
 Our Products - MikeyGoldGrid
 
 ### Cart
-https://mikeygoldgrid-0ee1d1c2.zappy5.app/cart
+https://example.com/cart
 Your Cart
 
 ### Checkout
-https://mikeygoldgrid-0ee1d1c2.zappy5.app/checkout
+https://example.com/checkout
 Checkout
 
 ### Login
-https://mikeygoldgrid-0ee1d1c2.zappy5.app/login
+https://example.com/login
 Customer Login
 
 ### Account
-https://mikeygoldgrid-0ee1d1c2.zappy5.app/account
+https://example.com/account
 My Account
 
 ### Order Success
-https://mikeygoldgrid-0ee1d1c2.zappy5.app/order-success
+https://example.com/order-success
 Thank you for your order
 
 ### Product Detail
-https://mikeygoldgrid-0ee1d1c2.zappy5.app/product/:slug
+https://example.com/product/:slug
 Product Details - MikeyGoldGrid
 
 ### Category
-https://mikeygoldgrid-0ee1d1c2.zappy5.app/category/:slug
+https://example.com/category/:slug
 Products - MikeyGoldGrid
 
 ### Thank You
-https://mikeygoldgrid-0ee1d1c2.zappy5.app/thank-you
+https://example.com/thank-you
 MikeyGoldGrid - Thank You
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://mikeygoldgrid-0ee1d1c2.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://mikeygoldgrid-0ee1d1c2.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://mikeygoldgrid-0ee1d1c2.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -106,8 +106,8 @@ Financial Technology / Algorithmic Trading
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://mikeygoldgrid-0ee1d1c2.zappy5.app/sitemap.xml
-- Robots: https://mikeygoldgrid-0ee1d1c2.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://mikeygoldgrid-0ee1d1c2.zappy5.app/llms-full.txt
-- Products (JSON): https://mikeygoldgrid-0ee1d1c2.zappy5.app/products.json
-- Products (Google Merchant RSS): https://mikeygoldgrid-0ee1d1c2.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
