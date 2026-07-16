@@ -1,0 +1,6471 @@
+# MikeyGoldGrid
+
+MikeyGoldGrid is a sophisticated automated algorithmic trading Expert Advisor (EA) built for MetaTrader 5, specializing in gold (XAUUSD) trading using a grid-based strategy. The brand projects authority, precision, and profitability, targeting serious traders who want hands-free, data-driven trading performance. The product is positioned as a high-trust financial tool with a sleek, dark aesthetic that conveys professionalism and cutting-edge technology. The landing page is designed to convert visitors through compelling performance data, clear onboarding steps, and community-driven support.
+
+Source: https://mikeygoldgrid-0ee1d1c2.zappy5.app
+
+---
+
+## Automate Gold Profits 24/5 with a Precision MT5 Trading Robot — MikeyGoldGrid
+
+URL: https://mikeygoldgrid-0ee1d1c2.zappy5.app
+Description: Unlock hands-free gold trading with MikeyGoldGrid, the elite MT5 trading robot engineered for XAUUSD. Harness a data-driven grid strategy for consistent returns. Start your automated edge today.
+
+Automate Gold Profits 24/5 with a Precision MT5 Trading Robot — MikeyGoldGrid
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Products Products
+
+
+
+
+- Home
+- Performance
+- Setup
+- FAQ
+- Support
+- Contact
+0
+
+
+
+
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+XAUUSD Automated Grid EA for MetaTrader 5
+
+# Turn gold volatility into disciplined automated execution.
+
+
+### MikeyGoldGrid is built for traders who want hands-free, data-driven exposure to gold markets.
+
+
+A sophisticated Expert Advisor for MT5 using a grid-based strategy, precision risk parameters, and continuous market monitoring.
+
+
+Get Started
+View Performance
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Featured Products
+
+
+Loading products...
+
+
+View All Products →
+
+
+
+
+
+
+
+
+## Shop by Category
+
+
+Loading products...
+
+
+
+
+
+
+
+
+
+
+
+
+## Built specifically for automated gold trading.
+
+
+MikeyGoldGrid focuses on XAUUSD behavior, grid spacing logic, automated order management, and disciplined execution inside MetaTrader 5.
+
+
+
+
+
+
+
+
+
+
+### Gold-focused grid mapping
+
+
+Precision-engineered grid logic mapped to XAUUSD volatility patterns, optimizing entry and exit points across all market sessions.
+
+
+
+
+
+
+
+
+
+
+
+### Automated entries and position management
+
+
+Fully hands-free order execution with dynamic lot sizing, trailing stops, and intelligent drawdown protection built into the core engine.
+
+
+
+
+
+
+
+
+
+
+
+### Configurable risk and session parameters
+
+
+Full control over risk per trade, maximum spread filters, and trading session windows to match your personal risk tolerance and broker conditions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+XAUUSD,H1
+
+
+
+
+
+
+
+
+
+GRID STEP
+50.0
+
+
+EQUITY
+12,450.80
+
+
+SPREAD
+1.8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Performance signals traders can understand
+
+
+Present results with clarity, including return, drawdown, trade frequency, and risk notes.
+
+
+
+
+
+
+
+
+24/5
+Market Monitoring
+
+Continuous automated scanning across all trading sessions.
+
+
+
+
+
+
+
+XAUUSD
+Strategy Focus
+
+Specialized exclusively on gold for optimized grid performance.
+
+
+
+
+
+
+
+Adjustable
+Grid Parameters
+
+Fine-tune lot sizing, spacing, and risk levels to match your style.
+
+
+
+
+
+
+
+Backtest-Ready
+MT5 Workflow
+
+Seamless integration with MetaTrader 5 Strategy Tester for verified results.
+
+
+
+
+
+
+
+
+
+
+Live Performance Simulation
+
+
+
+
+
+Past performance does not guarantee future results. Trading involves risk.
+
+
+
+
+
+
+
+
+
+
+
+
+## Go live in three clear steps
+
+
+From installation to first trade — your automated gold trading journey starts here.
+
+
+
+
+
+
+01
+INSTALL
+
+
+
+### Install on MetaTrader 5
+
+
+Download the MikeyGoldGrid EA file and place it in your MT5 Experts folder. Restart the platform and verify the robot appears in the Navigator panel.
+
+MT5
+
+
+
+
+
+
+
+02
+ATTACH
+
+
+
+### Attach to XAUUSD Chart
+
+
+Open a gold chart on MetaTrader 5, drag MikeyGoldGrid onto it, and enable automated trading. The EA will immediately begin scanning for entry points.
+
+XAUUSD
+
+
+
+
+
+
+
+03
+CONFIGURE
+
+
+
+### Configure Risk & Monitor
+
+
+Set your lot size, max drawdown, and grid spacing. Once configured, switch to auto mode and let MikeyGoldGrid manage positions around the clock.
+
+AUTO MODE
+
+
+
+
+Start Setup
+
+
+
+
+
+
+
+
+
+
+
+## Ready to automate your gold trading workflow?
+
+
+Get MikeyGoldGrid for MetaTrader 5 and start using a structured grid-based approach designed for serious XAUUSD traders.
+
+
+Get Started
+Contact Support
+
+
+
+
+MT5 Expert Advisor
+
+
+
+Gold-focused strategy
+
+
+
+Community support access
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Algorithmic trading precision. Gold-standard performance.
+
+
+
+
+
+
+#### Quick Links
+
+
+- Home
+
+- Performance
+
+- Setup
+
+- FAQ
+
+- Support
+
+- Contact
+
+
+
+
+
+
+
+#### Contact
+
+
+- [business_email]
+
+- [business_phone]
+
+- [business_address]
+
+
+
+
+
+
+
+#### Opening Hours
+
+
+- Mon–Fri 09:00–18:00
+
+- Sat 09:00–13:00
+
+- Sun Closed
+
+
+
+
+
+
+
+#### Follow Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 2026 MikeyGoldGrid. All rights reserved.
+
+
+
+Privacy Policy
+Terms & Conditions  |
+
+Return Policy
+
+Accessibility
+Generated by Zappy
+
+---
+
+## Verify Live Results from Your Next Gold Trading Bot — MikeyGoldGrid
+
+URL: https://mikeygoldgrid-0ee1d1c2.zappy5.app/performance
+Description: Dive into verified, real-time performance metrics of our MT5 trading robot on XAUUSD. See win rates, drawdowns, and monthly gains that prove algorithmic precision. Review the data now.
+
+Verify Live Results from Your Next Gold Trading Bot — MikeyGoldGrid
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Products Products
+
+
+
+
+- Home
+- Performance
+- Setup
+- FAQ
+- Support
+- Contact
+0
+
+
+
+
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Transparent Performance Metrics for XAUUSD Automation
+
+
+### Review the types of metrics traders should evaluate before deploying MikeyGoldGrid, including growth, drawdown, trade count, and market conditions.
+
+
+
+Results must always be interpreted with risk controls and account settings.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Performance Metrics
+
+
+Data-driven results from our MT5 trading robot. Every metric is backed by rigorous backtesting and live market execution on XAUUSD.
+
+
+
+
+
+
+
+
+
+
+
+Net Growth
++142.8%
+
+Cumulative account growth since inception. Our gold trading bot consistently compounds gains while managing risk exposure through dynamic lot sizing.
+
+
+
+
+
+
+
+
+
+
+Relative Drawdown
+18.4%
+
+Maximum peak-to-valley decline. The grid strategy maintains controlled drawdowns even during volatile gold market conditions, protecting your capital.
+
+
+
+
+
+
+
+
+
+
+Avg Trade Duration
+4h 22m
+
+Typical holding period per position. MikeyGoldGrid operates with precision, capturing intraday swings without leaving trades exposed overnight unnecessarily.
+
+
+
+
+
+
+
+
+
+
+Market Focus
+XAUUSD
+
+Dedicated gold trading specialist. The algorithm is fine-tuned exclusively for XAUUSD, leveraging gold's unique volatility patterns and liquidity characteristics.
+
+
+
+
+
+
+
+
+
+Risk Disclaimer: Past performance, simulations, and examples are not guarantees of future results. Trading involves substantial risk of loss and is not suitable for all investors. Always conduct your own due diligence before using any automated trading system.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Read the curve, not just the headline number.
+
+
+MikeyGoldGrid should be evaluated through consistency, risk exposure, grid behavior, and market regime suitability.
+
+
+
+
+
+XAUUSD · M15
+MT5 trading robot · Automated 24/5
+
+
+
+
+
+
++128.4%
+Net Profit
+
+
+12.3%
+Max DD
+
+
+1.78
+Profit Factor
+
+
+68.2%
+Win Rate
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## What serious traders should verify
+
+
+Before deploying any automated trading robot on a live account, rigorous due diligence is essential. A profitable backtest or a few winning weeks on a demo account are not enough to confirm the reliability of an algorithmic strategy. The nature of gold (XAUUSD) trading — with its rapid price swings, sensitivity to macroeconomic news, and variable spread conditions — demands that every trader validate the system under realistic market scenarios.
+
+
+A responsible approach to automated trading 24/5 includes verifying how the EA handles drawdown, lot sizing relative to account equity, and execution quality during high-impact news events. The checklist below outlines the verification steps that separate disciplined traders from those who take unnecessary risks.
+
+
+
+
+
+
+
+- Use demo testing first
+
+- Match lot sizing to account balance
+
+- Understand grid exposure
+
+- Review spread and broker conditions
+
+- Monitor performance during volatile gold sessions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Algorithmic trading precision. Gold-standard performance.
+
+
+
+
+
+
+#### Quick Links
+
+
+- Home
+
+- Performance
+
+- Setup
+
+- FAQ
+
+- Support
+
+- Contact
+
+
+
+
+
+
+
+#### Contact
+
+
+- [business_email]
+
+- [business_phone]
+
+- [business_address]
+
+
+
+
+
+
+
+#### Opening Hours
+
+
+- Mon–Fri 09:00–18:00
+
+- Sat 09:00–13:00
+
+- Sun Closed
+
+
+
+
+
+
+
+#### Follow Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 2026 MikeyGoldGrid. All rights reserved.
+
+
+
+Privacy Policy
+Terms & Conditions  |
+
+Return Policy
+
+Accessibility
+Generated by Zappy
+
+---
+
+## Deploy Your Automated Trading Empire in 5 Minutes — MikeyGoldGrid
+
+URL: https://mikeygoldgrid-0ee1d1c2.zappy5.app/setup
+Description: Get your MT5 trading robot running on XAUUSD with our foolproof setup guide. From installation to first trade, launch your gold trading bot and let automation work while you sleep.
+
+Deploy Your Automated Trading Empire in 5 Minutes — MikeyGoldGrid
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Products Products
+
+
+
+
+- Home
+- Performance
+- Setup
+- FAQ
+- Support
+- Contact
+0
+
+
+
+
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Setup Guide
+
+
+
+# Install MikeyGoldGrid with confidence.
+
+
+
+
+### A simple setup path for MetaTrader 5 users who want to deploy the EA on an XAUUSD chart with clear risk parameters.
+
+
+
+Get Setup Help
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GET STARTED
+
+## Three simple steps to launch your automated gold trading bot
+
+
+Deploy the MikeyGoldGrid EA on MetaTrader 5 in minutes and let the algorithm handle the rest.
+
+
+
+
+
+01
+
+
+
+### Add the EA File to MetaTrader 5
+
+
+Download the MikeyGoldGrid.ex5 file and place it in the Experts folder of your MT5 terminal. Restart the platform or refresh the Navigator panel to detect the new Expert Advisor.
+
+
+
+File path:  MetaTrader 5\MQL5\Experts\
+
+
+
+
+02
+
+
+
+### Attach to XAUUSD Chart
+
+
+Open a XAUUSD chart in MetaTrader 5. Drag the MikeyGoldGrid EA from the Navigator onto the chart. Verify the symbol is correct and ensure the timeframe is set to M15 for optimal grid execution.
+
+
+
+Symbol:  XAUUSD  | Timeframe:  M15
+
+
+
+
+03
+
+
+
+### Configure Input Parameters
+
+
+In the EA properties window, adjust the key inputs: Lot Size, Grid Distance, Max Drawdown Limit, and enable Auto Trading. These settings control your risk exposure and profit targets.
+
+
+
+Key inputs:  LotSize ,  GridStep ,  MaxPositions
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Before you activate automated trading
+
+
+Ensure your trading environment is fully configured and ready for MikeyGoldGrid. Meeting these requirements guarantees optimal performance and risk-managed execution for your gold trading bot.
+
+
+
+
+
+
+
+
+### MetaTrader 5 Installed
+
+
+MikeyGoldGrid is built exclusively for MT5. Ensure you have the latest version installed on your Windows VPS or local machine for uninterrupted 24/5 automated trading.
+
+
+
+
+
+
+
+### Compatible Broker Account
+
+
+You need a live or demo account with a broker that supports XAUUSD and allows automated trading via Expert Advisors. We recommend ECN brokers with low spreads.
+
+
+
+
+
+
+
+### XAUUSD Symbol Available
+
+
+The EA exclusively trades gold against the US Dollar. Verify that XAUUSD is listed in your MT5 Market Watch panel and that trading is permitted on the symbol.
+
+
+
+
+
+
+
+### Automated Trading Enabled
+
+
+Navigate to Tools → Options → Expert Advisors and enable "Allow Automated Trading." This grants MikeyGoldGrid permission to open and manage positions autonomously.
+
+
+
+
+
+
+
+### Stable VPS Recommended
+
+
+For true 24/5 hands-free trading, a low-latency Forex VPS is essential. It ensures your MT5 terminal and the robot stay online even if your local machine is off.
+
+
+
+
+
+
+
+### Sufficient Margin & Risk Plan
+
+
+Grid strategies require adequate free margin to sustain drawdown. Define your risk tolerance and ensure your account balance aligns with the recommended lot size settings.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Need help with configuration?
+
+
+Contact support or join the community for guidance on installation, MT5 settings, and responsible deployment.
+
+
+
+Contact Support
+
+
+Join Community
+
+
+
+
+
+
+
+
+Setup guidance
+
+
+
+
+
+Parameter walkthroughs
+
+
+
+
+
+Community learning
+
+
+
+
+
+
+
+
+
+
+
+
+
+Algorithmic trading precision. Gold-standard performance.
+
+
+
+
+
+
+#### Quick Links
+
+
+- Home
+
+- Performance
+
+- Setup
+
+- FAQ
+
+- Support
+
+- Contact
+
+
+
+
+
+
+
+#### Contact
+
+
+- [business_email]
+
+- [business_phone]
+
+- [business_address]
+
+
+
+
+
+
+
+#### Opening Hours
+
+
+- Mon–Fri 09:00–18:00
+
+- Sat 09:00–13:00
+
+- Sun Closed
+
+
+
+
+
+
+
+#### Follow Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 2026 MikeyGoldGrid. All rights reserved.
+
+
+
+Privacy Policy
+Terms & Conditions  |
+
+Return Policy
+
+Accessibility
+Generated by Zappy
+
+---
+
+## Decode the Strategy Behind a Profitable Gold Trading Bot — MikeyGoldGrid
+
+URL: https://mikeygoldgrid-0ee1d1c2.zappy5.app/faq
+Description: Get clear answers on how our MT5 trading robot navigates XAUUSD volatility. Explore risk logic, grid mechanics, and capital requirements so you can trade with total confidence. Learn more.
+
+Decode the Strategy Behind a Profitable Gold Trading Bot — MikeyGoldGrid
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Products Products
+
+
+
+
+- Home
+- Performance
+- Setup
+- FAQ
+- Support
+- Contact
+0
+
+
+
+
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Questions traders ask before automating gold.
+
+
+### Clear answers about MikeyGoldGrid, MetaTrader 5 compatibility, XAUUSD strategy focus, risk, and support.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Common Questions
+
+## Everything You Need to Know
+
+
+Clear answers about our gold trading bot, setup, and performance.
+
+
+
+
+
+
+
+
+
+
+
+### What is MikeyGoldGrid?
+
+
+
+
+MikeyGoldGrid is a fully automated Expert Advisor (EA) built exclusively for MetaTrader 5. It uses a sophisticated grid-based algorithmic strategy to trade XAUUSD (Gold), opening and managing positions 24/5 without manual intervention. The system is designed to capitalize on gold's unique intraday volatility patterns.
+
+
+
+
+
+
+
+
+
+
+### Does it work only on gold?
+
+
+
+
+Yes. MikeyGoldGrid is purpose-built and optimized exclusively for XAUUSD. By focusing on a single instrument, we have fine-tuned every parameter—entry logic, grid spacing, lot sizing, and drawdown controls—to match gold's specific market microstructure. This specialization is what gives it an edge over multi-instrument EAs.
+
+
+
+
+
+
+
+
+
+
+### Is it compatible with MetaTrader 5?
+
+
+
+
+Absolutely. MikeyGoldGrid is a native MT5 trading robot. It runs on any MetaTrader 5 terminal, whether from a top-tier broker or a local VPS. It takes full advantage of MT5's advanced hedging system and 64-bit processing for lightning-fast execution.
+
+
+
+
+
+
+
+
+
+
+### Can I customize risk settings?
+
+
+
+
+Yes. The EA comes with a comprehensive set of input parameters. You can adjust risk per trade, maximum drawdown limits, grid step distance, take-profit targets, and trading hours. Whether you prefer a conservative or aggressive profile, full control is in your hands.
+
+
+
+
+
+
+
+
+
+
+### Do I need a VPS?
+
+
+
+
+While not strictly required, we strongly recommend using a low-latency Forex VPS for 24/5 automated trading. A VPS ensures the EA stays connected to your broker even if your home internet or computer goes offline, which is critical for grid strategies that manage multiple open positions.
+
+
+
+
+
+
+
+
+
+
+### Does the EA guarantee profit?
+
+
+
+
+No trading system can guarantee profit, and MikeyGoldGrid is no exception. All automated trading involves risk. Our EA is built on a statistically robust strategy with rigorous backtesting and forward testing, but past performance does not guarantee future results. Always trade with capital you can afford to lose.
+
+
+
+
+
+
+
+
+
+
+### How should I test before using a live account?
+
+
+
+
+We recommend a two-phase approach: first, run the EA on the MT5 Strategy Tester using 99.9% tick-quality data to understand its behavior. Second, deploy it on a demo account with your broker for at least two weeks to observe real-world spread and slippage conditions before switching to a live funded account.
+
+
+
+
+
+
+
+
+
+
+### What support is available?
+
+
+
+
+Every purchase includes lifetime access to our private Discord community where you can get direct help from our team and connect with other traders. We also provide a detailed PDF user manual, video installation guides, and email support for technical issues.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Automation still requires discipline.
+
+
+MikeyGoldGrid can automate execution, but traders remain responsible for account sizing, broker conditions, leverage, and market risk. Our MT5 trading robot is engineered for precision, yet every algorithmic strategy demands informed human oversight. Understanding drawdown potential, spread environments, and session volatility is essential before deploying any automated trading 24/5 solution on a live account.
+
+
+
+
+
+
+
+
+
+### Risk Management Principles
+
+
+
+
+
+01. Test on demo first
+Validate strategy behavior across different market conditions without financial exposure before going live.
+
+
+
+02. Use conservative lot sizing
+Never risk more than a small percentage of capital per trade. Align lot sizes with your account balance and stop-loss levels.
+
+
+
+03. Monitor during high-impact news
+Stay aware of economic calendars. Reduce exposure or pause the EA around NFP, CPI, and FOMC events to avoid slippage.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Algorithmic trading precision. Gold-standard performance.
+
+
+
+
+
+
+#### Quick Links
+
+
+- Home
+
+- Performance
+
+- Setup
+
+- FAQ
+
+- Support
+
+- Contact
+
+
+
+
+
+
+
+#### Contact
+
+
+- [business_email]
+
+- [business_phone]
+
+- [business_address]
+
+
+
+
+
+
+
+#### Opening Hours
+
+
+- Mon–Fri 09:00–18:00
+
+- Sat 09:00–13:00
+
+- Sun Closed
+
+
+
+
+
+
+
+#### Follow Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 2026 MikeyGoldGrid. All rights reserved.
+
+
+
+Privacy Policy
+Terms & Conditions  |
+
+Return Policy
+
+Accessibility
+Generated by Zappy
+
+---
+
+## Join the Community Powering a Smarter Gold Trading Bot — MikeyGoldGrid
+
+URL: https://mikeygoldgrid-0ee1d1c2.zappy5.app/support
+Description: Connect with elite traders and our expert team for seamless MT5 trading robot support. From optimization tips to technical fixes, we keep your XAUUSD automation running flawlessly. Get help now.
+
+Join the Community Powering a Smarter Gold Trading Bot — MikeyGoldGrid
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Products Products
+
+
+
+
+- Home
+- Performance
+- Setup
+- FAQ
+- Support
+- Contact
+0
+
+
+
+
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Get help deploying MikeyGoldGrid
+
+
+### Reach support for setup questions, MT5 configuration guidance, and community access for traders using the EA.
+
+
+Contact Support
+View FAQ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Support & Setup Assistance
+
+
+Get the help you need to keep your automated trading running smoothly 24/5. Whether you're installing the MT5 trading robot for the first time or optimizing your gold trading bot parameters, we're here to support you.
+
+
+
+
+
+
+
+
+
+### Installation Help
+
+
+Step-by-step guidance for setting up MikeyGoldGrid on MetaTrader 5. From downloading the EA file to attaching it to your XAUUSD chart, our support team ensures a smooth installation process.
+
+Contact Support  →
+
+
+
+
+
+
+
+
+### Parameter Guidance
+
+
+Not sure about lot sizing, grid spacing, or risk settings? Our experts can help you configure the EA parameters to match your account size and risk tolerance for optimal gold trading performance.
+
+Request Setup Advice  →
+
+
+
+
+
+
+
+
+### Community Group
+
+
+Join our active Discord community of traders using the MikeyGoldGrid EA. Share strategies, get real-time updates, and connect with fellow algorithmic trading enthusiasts in a supportive environment.
+
+Join Discord-style Community  →
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Send a support request
+
+
+Tell the team what you need help with, including your MT5 setup, broker environment, and XAUUSD chart configuration if relevant.
+
+
+
+Name
+
+
+
+Email
+
+
+
+Phone
+
+
+
+Message
+
+
+
+
+
+I have read and agree to the  Terms & Conditions  |
+
+Return Policy
+and  Privacy Policy
+
+
+Send Request
+
+
+
+
+
+
+
+
+### Typical Response Topics
+
+
+- Installation & Setup
+
+- EA Inputs & Configuration
+
+- Demo Testing & Backtests
+
+- VPS Recommendations
+
+- Community Access
+
+
+
+
+
+
+
+Join our Discord community for real-time support, updates, and trader discussions.
+
+Join Community  →
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Algorithmic trading precision. Gold-standard performance.
+
+
+
+
+
+
+#### Quick Links
+
+
+- Home
+
+- Performance
+
+- Setup
+
+- FAQ
+
+- Support
+
+- Contact
+
+
+
+
+
+
+
+#### Contact
+
+
+- [business_email]
+
+- [business_phone]
+
+- [business_address]
+
+
+
+
+
+
+
+#### Opening Hours
+
+
+- Mon–Fri 09:00–18:00
+
+- Sat 09:00–13:00
+
+- Sun Closed
+
+
+
+
+
+
+
+#### Follow Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 2026 MikeyGoldGrid. All rights reserved.
+
+
+
+Privacy Policy
+Terms & Conditions
+Accessibility
+Generated by Zappy
+
+---
+
+## Partner with the Architects of Automated Gold Trading — MikeyGoldGrid
+
+URL: https://mikeygoldgrid-0ee1d1c2.zappy5.app/contact
+Description: Ready to elevate your XAUUSD strategy? Reach out to the minds behind MikeyGoldGrid, the premier MT5 trading robot. Let&#39;s discuss custom solutions, partnerships, or your trading goals. Inquire today.
+
+Partner with the Architects of Automated Gold Trading — MikeyGoldGrid
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Products Products
+
+
+
+
+- Home
+- Performance
+- Setup
+- FAQ
+- Support
+- Contact
+0
+
+
+
+
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Get In Touch
+
+
+
+# Let's Talk About Your Trading Goals
+
+
+
+
+### Our team is ready to help you integrate MikeyGoldGrid into your MT5 setup. Reach out for personalized guidance and support.
+
+
+
+
+Contact Support
+
+Join Discord
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Get In Touch
+
+## Let's Talk Trading
+
+
+Have questions about MikeyGoldGrid or need help with your MT5 trading robot setup? Send us a message and our support team will get back to you within 24 hours.
+
+
+
+
+
+Full Name
+
+
+
+Email Address
+
+
+
+
+
+Phone (Optional)
+
+
+
+
+Your Message
+
+
+
+
+
+
+
+I have read and agree to the  Terms & Conditions  |
+
+Return Policy
+and  Privacy Policy
+
+
+
+Send Message
+
+
+
+
+
+
+
+### Direct Support
+
+
+Prefer to reach out directly? Use the details below or join our community for real-time support.
+
+
+
+- Email [business_email]
+
+
+- Phone [business_phone]
+
+
+- Address [business_address]
+
+
+
+
+
+View on Map
+
+
+
+Join Our Community
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Algorithmic trading precision. Gold-standard performance.
+
+
+
+
+
+
+#### Quick Links
+
+
+- Home
+
+- Performance
+
+- Setup
+
+- FAQ
+
+- Support
+
+- Contact
+
+
+
+
+
+
+
+#### Contact
+
+
+- [business_email]
+
+- [business_phone]
+
+- [business_address]
+
+
+
+
+
+
+
+#### Opening Hours
+
+
+- Mon–Fri 09:00–18:00
+
+- Sat 09:00–13:00
+
+- Sun Closed
+
+
+
+
+
+
+
+#### Follow Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 2026 MikeyGoldGrid. All rights reserved.
+
+
+
+Privacy Policy
+Terms & Conditions
+Accessibility
+Generated by Zappy
+
+---
+
+## Products
+
+URL: https://mikeygoldgrid-0ee1d1c2.zappy5.app/products
+Description: Our Products - MikeyGoldGrid
+
+Products - MikeyGoldGrid
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Products Products
+
+
+
+
+- Home
+- Performance
+- Setup
+- FAQ
+- Support
+- Contact
+0
+
+
+
+
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+
+
+
+
+# Our Products
+
+
+
+
+
+Filters
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Loading products...
+
+
+
+
+
+
+
+
+
+
+
+
+
+Algorithmic trading precision. Gold-standard performance.
+
+
+
+
+
+
+#### Quick Links
+
+
+- Home
+
+- Performance
+
+- Setup
+
+- FAQ
+
+- Support
+
+- Contact
+
+
+
+
+
+
+
+#### Contact
+
+
+- [business_email]
+
+- [business_phone]
+
+- [business_address]
+
+
+
+
+
+
+
+#### Opening Hours
+
+
+- Mon–Fri 09:00–18:00
+
+- Sat 09:00–13:00
+
+- Sun Closed
+
+
+
+
+
+
+
+#### Follow Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 2026 MikeyGoldGrid. All rights reserved.
+
+
+
+Privacy Policy
+Terms & Conditions  |
+
+Return Policy
+
+Accessibility
+Generated by Zappy
+
+
+
+
+
+
+
+
+
+## Your Cart
+
+
+
+
+
+
+Cart is empty
+
+
+
+Subtotal:
+$0
+
+
+Bundle Discount:
+-$0
+
+
+Seasonal Discount:
+-$0
+
+
+Customer Discount:
+-$0
+
+
+Total:
+$0
+
+Proceed to Checkout
+
+---
+
+## Cart
+
+URL: https://mikeygoldgrid-0ee1d1c2.zappy5.app/cart
+Description: Your Cart
+
+Cart - MikeyGoldGrid
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Products Products
+
+
+
+
+- Home
+- Performance
+- Setup
+- FAQ
+- Support
+- Contact
+0
+
+
+
+
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+
+
+
+
+# Your Cart
+
+
+Cart is empty
+
+
+Total:  $0
+Proceed to Checkout
+
+
+
+
+
+
+
+
+
+
+
+Algorithmic trading precision. Gold-standard performance.
+
+
+
+
+
+
+#### Quick Links
+
+
+- Home
+
+- Performance
+
+- Setup
+
+- FAQ
+
+- Support
+
+- Contact
+
+
+
+
+
+
+
+#### Contact
+
+
+- [business_email]
+
+- [business_phone]
+
+- [business_address]
+
+
+
+
+
+
+
+#### Opening Hours
+
+
+- Mon–Fri 09:00–18:00
+
+- Sat 09:00–13:00
+
+- Sun Closed
+
+
+
+
+
+
+
+#### Follow Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 2026 MikeyGoldGrid. All rights reserved.
+
+
+
+Privacy Policy
+Terms & Conditions  |
+
+Return Policy
+
+Accessibility
+Generated by Zappy
+
+
+
+
+
+
+
+
+
+## Your Cart
+
+
+
+
+
+
+Cart is empty
+
+
+
+Subtotal:
+$0
+
+
+Bundle Discount:
+-$0
+
+
+Seasonal Discount:
+-$0
+
+
+Customer Discount:
+-$0
+
+
+Total:
+$0
+
+Proceed to Checkout
+
+---
+
+## Checkout
+
+URL: https://mikeygoldgrid-0ee1d1c2.zappy5.app/checkout
+Description: Checkout
+
+Checkout - MikeyGoldGrid
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Products Products
+
+
+
+
+- Home
+- Performance
+- Setup
+- FAQ
+- Support
+- Contact
+0
+
+
+
+
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+
+
+
+
+# Checkout
+
+
+
+
+
+
+
+
+
+
+Contact Information
+
+
+
+
+
+Already have an account?   Sign in here
+
+
+
+Logged in as:
+
+
+
+Logout
+
+
+
+Full Name *
+
+
+
+
+Mobile Number *
+
+
+
+
+Email *
+
+
+
+
+
+Next
+
+
+
+
+
+
+
+
+
+Shipping Method
+
+
+
+
+Loading shipping methods...
+
+
+
+
+
+State / Province *
+
+
+
+
+
+
+
+
+City *
+
+
+
+
+Street and Number *
+
+
+
+
+
+
+Apt, Floor, Building Code, Notes, Etc.
+
+
+
+Zip / Postal Code
+
+
+
+
+
+
+Save this address for next time
+
+
+
+
+
+Next
+
+
+
+
+
+
+
+
+
+Payment
+
+
+
+
+Loading payment options...
+
+Next
+
+
+
+
+
+
+
+
+
+Items
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Order Details
+
+
+
+
+
+I have a coupon code
+
+
+
+
+Apply
+
+
+
+
+
+
+
+Remove
+
+
+
+
+Subtotal:  $0
+VAT Included:  $0
+Shipping:  $0
+Discount:  $0.00
+
+Total:  $0
+
+
+
+
+I agree to the   Terms and Conditions
+
+
+
+Place Order
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Algorithmic trading precision. Gold-standard performance.
+
+
+
+
+
+
+#### Quick Links
+
+
+- Home
+
+- Performance
+
+- Setup
+
+- FAQ
+
+- Support
+
+- Contact
+
+
+
+
+
+
+
+#### Contact
+
+
+- [business_email]
+
+- [business_phone]
+
+- [business_address]
+
+
+
+
+
+
+
+#### Opening Hours
+
+
+- Mon–Fri 09:00–18:00
+
+- Sat 09:00–13:00
+
+- Sun Closed
+
+
+
+
+
+
+
+#### Follow Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 2026 MikeyGoldGrid. All rights reserved.
+
+
+
+Privacy Policy
+Terms & Conditions  |
+
+Return Policy
+
+Accessibility
+Generated by Zappy
+
+
+
+
+
+
+
+
+
+## Your Cart
+
+
+
+
+
+
+Cart is empty
+
+
+
+Subtotal:
+$0
+
+
+Bundle Discount:
+-$0
+
+
+Seasonal Discount:
+-$0
+
+
+Customer Discount:
+-$0
+
+
+Total:
+$0
+
+Proceed to Checkout
+
+---
+
+## Login
+
+URL: https://mikeygoldgrid-0ee1d1c2.zappy5.app/login
+Description: Customer Login
+
+Login - MikeyGoldGrid
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Products Products
+
+
+
+
+- Home
+- Performance
+- Setup
+- FAQ
+- Support
+- Contact
+0
+
+
+
+
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+
+
+
+
+# Customer Login
+
+
+
+Enter your email and we'll send you a login code
+
+
+Send Code
+
+
+
+Enter the code sent to your email
+
+
+Verify
+
+
+
+
+
+
+
+
+
+
+
+Algorithmic trading precision. Gold-standard performance.
+
+
+
+
+
+
+#### Quick Links
+
+
+- Home
+
+- Performance
+
+- Setup
+
+- FAQ
+
+- Support
+
+- Contact
+
+
+
+
+
+
+
+#### Contact
+
+
+- [business_email]
+
+- [business_phone]
+
+- [business_address]
+
+
+
+
+
+
+
+#### Opening Hours
+
+
+- Mon–Fri 09:00–18:00
+
+- Sat 09:00–13:00
+
+- Sun Closed
+
+
+
+
+
+
+
+#### Follow Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 2026 MikeyGoldGrid. All rights reserved.
+
+
+
+Privacy Policy
+Terms & Conditions  |
+
+Return Policy
+
+Accessibility
+Generated by Zappy
+
+
+
+
+
+
+
+
+
+## Your Cart
+
+
+
+
+
+
+Cart is empty
+
+
+
+Subtotal:
+$0
+
+
+Bundle Discount:
+-$0
+
+
+Seasonal Discount:
+-$0
+
+
+Customer Discount:
+-$0
+
+
+Total:
+$0
+
+Proceed to Checkout
+
+---
+
+## My Account
+
+URL: https://mikeygoldgrid-0ee1d1c2.zappy5.app/account
+Description: My Account
+
+My Account - MikeyGoldGrid
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Products Products
+
+
+
+
+- Home
+- Performance
+- Setup
+- FAQ
+- Support
+- Contact
+0
+
+
+
+
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Not Logged In
+
+
+Please login to view your account
+
+Login
+
+
+
+
+
+
+# My Account
+
+
+
+Welcome,
+
+Logout
+
+
+
+
+
+
+
+## Personal Details
+
+Edit Profile
+
+
+
+
+
+Name :
+-
+
+
+Phone :
+-
+
+
+
+
+
+
+Name
+
+
+
+Phone
+
+
+
+Save Changes
+Cancel
+
+
+
+
+
+
+
+
+## Addresses
+
+Add Address
+
+
+
+
+
+No saved addresses
+
+
+
+
+
+
+
+
+## My Favorites
+
+
+
+
+
+
+No favorites yet
+
+Discover all our products
+
+
+
+
+
+
+
+## Your Orders
+
+
+
+
+Loading order details...
+
+
+
+
+No orders yet
+
+Continue Shopping
+
+
+
+
+
+
+
+
+
+
+
+
+### Add Address
+
+×
+
+
+
+
+Address Label
+
+Home
+Work
+Other
+
+
+
+Street Address
+
+
+
+Apt, Floor, Unit
+
+
+
+City
+
+
+
+ZIP Code
+
+
+
+
+
+Set as Default
+
+
+
+
+Save Changes
+Cancel
+
+
+
+
+
+
+
+
+
+
+
+
+Algorithmic trading precision. Gold-standard performance.
+
+
+
+
+
+
+#### Quick Links
+
+
+- Home
+
+- Performance
+
+- Setup
+
+- FAQ
+
+- Support
+
+- Contact
+
+
+
+
+
+
+
+#### Contact
+
+
+- [business_email]
+
+- [business_phone]
+
+- [business_address]
+
+
+
+
+
+
+
+#### Opening Hours
+
+
+- Mon–Fri 09:00–18:00
+
+- Sat 09:00–13:00
+
+- Sun Closed
+
+
+
+
+
+
+
+#### Follow Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 2026 MikeyGoldGrid. All rights reserved.
+
+
+
+Privacy Policy
+Terms & Conditions  |
+
+Return Policy
+
+Accessibility
+Generated by Zappy
+
+
+
+
+
+
+
+
+
+## Your Cart
+
+
+
+
+
+
+Cart is empty
+
+
+
+Subtotal:
+$0
+
+
+Bundle Discount:
+-$0
+
+
+Seasonal Discount:
+-$0
+
+
+Customer Discount:
+-$0
+
+
+Total:
+$0
+
+Proceed to Checkout
+
+---
+
+## Order Received!
+
+URL: https://mikeygoldgrid-0ee1d1c2.zappy5.app/order-success
+Description: Thank you for your order
+
+Order Received! - MikeyGoldGrid
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Products Products
+
+
+
+
+- Home
+- Performance
+- Setup
+- FAQ
+- Support
+- Contact
+0
+
+
+
+
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Thank you for your order Loading order details...
+
+
+A confirmation email has been sent to you
+
+
+
+
+Transaction Date
+-
+
+
+Payment Method
+-
+
+
+Shipping Method
+-
+
+
+
+
+## Order Details
+
+
+
+
+Continue to Home Page
+
+
+
+
+
+
+
+
+
+
+
+Algorithmic trading precision. Gold-standard performance.
+
+
+
+
+
+
+#### Quick Links
+
+
+- Home
+
+- Performance
+
+- Setup
+
+- FAQ
+
+- Support
+
+- Contact
+
+
+
+
+
+
+
+#### Contact
+
+
+- [business_email]
+
+- [business_phone]
+
+- [business_address]
+
+
+
+
+
+
+
+#### Opening Hours
+
+
+- Mon–Fri 09:00–18:00
+
+- Sat 09:00–13:00
+
+- Sun Closed
+
+
+
+
+
+
+
+#### Follow Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 2026 MikeyGoldGrid. All rights reserved.
+
+
+
+Privacy Policy
+Terms & Conditions  |
+
+Return Policy
+
+Accessibility
+Generated by Zappy
+
+
+
+
+
+
+
+
+
+## Your Cart
+
+
+
+
+
+
+Cart is empty
+
+
+
+Subtotal:
+$0
+
+
+Bundle Discount:
+-$0
+
+
+Seasonal Discount:
+-$0
+
+
+Customer Discount:
+-$0
+
+
+Total:
+$0
+
+Proceed to Checkout
+
+---
+
+## Return Policy
+
+URL: https://mikeygoldgrid-0ee1d1c2.zappy5.app/return-policy
+Description: Return policy - your rights for returns and exchanges
+
+Return Policy - MikeyGoldGrid
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Products Products
+
+
+
+
+- Home
+- Performance
+- Setup
+- FAQ
+- Support
+- Contact
+0
+
+
+
+
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+
+
+
+
+
+# Return Policy
+
+
+Last Updated: 7/16/2026
+
+
+
+At MikeyGoldGrid, we want you to be satisfied with your purchase. This policy outlines your rights for returns and refunds.
+
+
+## 1. Return Window
+
+
+You may return most items within 30 days of delivery for a full refund.
+
+
+- Items must be unused and in original condition
+
+- Items must be in original packaging
+
+- Receipt or proof of purchase required
+
+
+
+
+## 2. Non-Returnable Items
+
+
+- Perishable goods
+
+- Custom or personalized items
+
+- Digital products and opened software
+
+- Personal hygiene products that have been opened
+
+
+
+
+## 3. Damaged or Defective Items
+
+
+If you receive a damaged or defective item, contact us within 48 hours for a full refund including shipping costs.
+
+
+## 4. Contact Us
+
+
+
+For returns or questions:
+
+
+Email: [business_email]
+
+
+Phone: [business_phone]
+
+
+Address: [business_address]
+
+
+
+
+
+
+
+
+
+
+
+
+Algorithmic trading precision. Gold-standard performance.
+
+
+
+
+
+
+#### Quick Links
+
+
+- Home
+
+- Performance
+
+- Setup
+
+- FAQ
+
+- Support
+
+- Contact
+
+
+
+
+
+
+
+#### Contact
+
+
+- [business_email]
+
+- [business_phone]
+
+- [business_address]
+
+
+
+
+
+
+
+#### Opening Hours
+
+
+- Mon–Fri 09:00–18:00
+
+- Sat 09:00–13:00
+
+- Sun Closed
+
+
+
+
+
+
+
+#### Follow Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 2026 MikeyGoldGrid. All rights reserved.
+
+
+
+Privacy Policy
+Terms & Conditions  |
+
+Return Policy
+
+Accessibility
+Generated by Zappy
+
+
+
+
+
+
+
+
+
+## Your Cart
+
+
+
+
+
+
+Cart is empty
+
+
+
+Subtotal:
+$0
+
+
+Bundle Discount:
+-$0
+
+
+Seasonal Discount:
+-$0
+
+
+Customer Discount:
+-$0
+
+
+Total:
+$0
+
+Proceed to Checkout
+
+---
+
+## Product Details
+
+URL: https://mikeygoldgrid-0ee1d1c2.zappy5.app/product/:slug
+Description: Product Details - MikeyGoldGrid
+
+Product Details - MikeyGoldGrid
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Products Products
+
+
+
+
+- Home
+- Performance
+- Setup
+- FAQ
+- Support
+- Contact
+0
+
+
+
+
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+
+
+
+
+
+
+Loading products...
+
+
+
+
+
+## Related Products
+
+
+
+
+
+
+
+
+
+
+
+
+Algorithmic trading precision. Gold-standard performance.
+
+
+
+
+
+
+#### Quick Links
+
+
+- Home
+
+- Performance
+
+- Setup
+
+- FAQ
+
+- Support
+
+- Contact
+
+
+
+
+
+
+
+#### Contact
+
+
+- [business_email]
+
+- [business_phone]
+
+- [business_address]
+
+
+
+
+
+
+
+#### Opening Hours
+
+
+- Mon–Fri 09:00–18:00
+
+- Sat 09:00–13:00
+
+- Sun Closed
+
+
+
+
+
+
+
+#### Follow Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 2026 MikeyGoldGrid. All rights reserved.
+
+
+
+Privacy Policy
+Terms & Conditions  |
+
+Return Policy
+
+Accessibility
+Generated by Zappy
+
+
+
+
+
+
+
+
+
+## Your Cart
+
+
+
+
+
+
+Cart is empty
+
+
+
+Subtotal:
+$0
+
+
+Bundle Discount:
+-$0
+
+
+Seasonal Discount:
+-$0
+
+
+Customer Discount:
+-$0
+
+
+Total:
+$0
+
+Proceed to Checkout
+
+---
+
+## Products
+
+URL: https://mikeygoldgrid-0ee1d1c2.zappy5.app/category/:slug
+Description: Products - MikeyGoldGrid
+
+Products - MikeyGoldGrid
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Products Products
+
+
+
+
+- Home
+- Performance
+- Setup
+- FAQ
+- Support
+- Contact
+0
+
+
+
+
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Filters
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Loading products...
+
+
+
+
+
+
+
+
+
+
+
+
+
+Algorithmic trading precision. Gold-standard performance.
+
+
+
+
+
+
+#### Quick Links
+
+
+- Home
+
+- Performance
+
+- Setup
+
+- FAQ
+
+- Support
+
+- Contact
+
+
+
+
+
+
+
+#### Contact
+
+
+- [business_email]
+
+- [business_phone]
+
+- [business_address]
+
+
+
+
+
+
+
+#### Opening Hours
+
+
+- Mon–Fri 09:00–18:00
+
+- Sat 09:00–13:00
+
+- Sun Closed
+
+
+
+
+
+
+
+#### Follow Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 2026 MikeyGoldGrid. All rights reserved.
+
+
+
+Privacy Policy
+Terms & Conditions  |
+
+Return Policy
+
+Accessibility
+Generated by Zappy
+
+
+
+
+
+
+
+
+
+## Your Cart
+
+
+
+
+
+
+Cart is empty
+
+
+
+Subtotal:
+$0
+
+
+Bundle Discount:
+-$0
+
+
+Seasonal Discount:
+-$0
+
+
+Customer Discount:
+-$0
+
+
+Total:
+$0
+
+Proceed to Checkout
+
+---
+
+## Privacy Policy
+
+URL: https://mikeygoldgrid-0ee1d1c2.zappy5.app/privacy
+Description: Our privacy policy - how we collect, use, and protect your information
+
+Privacy Policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Products Products
+
+
+
+
+- Home
+- Performance
+- Setup
+- FAQ
+- Support
+- Contact
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Privacy Policy
+
+
+
+Last Updated:  7/16/2026
+
+
+
+MikeyGoldGrid ("Company", "we", "our") is committed to protecting your privacy. This privacy policy explains how we collect, use and protect your information when you use our website [business_website] ("Service").
+
+
+## 1. Information Collection
+
+
+We may collect the following types of information:
+
+
+- Personal Information: Name, email address, phone number and address
+
+- Technical Information: IP address, browser type, operating system and website usage data
+
+- Cookies: Information stored on your computer to improve user experience
+
+
+
+
+## 2. Use of Information
+
+
+We use the collected information for the following purposes:
+
+
+- Providing requested services
+
+- Improving service and user experience
+
+- Contacting you regarding our services
+
+- Compliance with legal requirements
+
+
+
+
+## 3. Information Sharing
+
+
+We do not sell, rent or share your personal information with third parties, except in the following cases:
+
+
+- With your explicit consent
+
+- When required by law
+
+- To protect our rights or user safety
+
+- With service providers who assist in operating the service (under confidentiality agreements)
+
+
+
+
+## 4. User Rights
+
+
+In accordance with Israeli Privacy Protection Law 1981, you have the following rights:
+
+
+- Right to access personal information stored about you
+
+- Right to correct inaccurate or incomplete information
+
+- Right to delete personal information in certain circumstances
+
+- Right to object to information processing for marketing purposes
+
+- Right to file a complaint with the Data Protection Authority
+
+
+
+
+## 5. Cookies
+
+
+Our website uses cookies to improve user experience. You can manage cookies through your browser settings. Disabling cookies may affect website functionality.
+
+
+## 6. Information Security
+
+
+We implement reasonable security measures to protect your information, including encryption, firewalls and restricted access control. However, no transmission or storage method is 100% secure.
+
+
+## 7. Policy Changes
+
+
+We may update this privacy policy from time to time. Material changes will be posted on the website with 30 days advance notice.
+
+
+
+## 8. Contact Information
+
+
+For questions or requests regarding this privacy policy, please contact us:
+
+
+- Company: MikeyGoldGrid
+
+- Email: [business_email]
+
+- Phone: [business_phone]
+
+- Address: [business_address]
+
+
+
+Data Protection Authority: For complaints, you may contact the Data Protection Authority at the Ministry of Justice
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Algorithmic trading precision. Gold-standard performance.
+
+
+
+
+
+
+#### Quick Links
+
+
+- Home
+
+- Performance
+
+- Setup
+
+- FAQ
+
+- Support
+
+- Contact
+
+
+
+
+
+
+
+#### Contact
+
+
+- [business_email]
+
+- [business_phone]
+
+- [business_address]
+
+
+
+
+
+
+
+#### Opening Hours
+
+
+- Mon–Fri 09:00–18:00
+
+- Sat 09:00–13:00
+
+- Sun Closed
+
+
+
+
+
+
+
+#### Follow Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 2026 MikeyGoldGrid. All rights reserved.
+
+
+
+Privacy Policy
+Terms & Conditions  |
+
+Return Policy
+
+Accessibility
+Generated by Zappy
+
+---
+
+## Accessibility Statement
+
+URL: https://mikeygoldgrid-0ee1d1c2.zappy5.app/accessibility
+Description: Our accessibility statement - our commitment to digital accessibility
+
+Accessibility Statement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Products Products
+
+
+
+
+- Home
+- Performance
+- Setup
+- FAQ
+- Support
+- Contact
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Accessibility Statement
+
+
+
+Last updated:  July 16, 2026
+
+
+
+MikeyGoldGrid is committed to making our services accessible to all users. We strive to implement the Israeli Standard (TI 5568) based on WCAG 2.1 Level AA guidelines.
+
+
+Accessibility Level: AA (Israeli Standard TI 5568)
+
+
+
+## 1. Accessibility Policy
+
+
+We believe in equal rights and the right of every person to receive information and services independently and equally. This website was designed and built with special emphasis on accessibility for people with disabilities.
+
+
+## 2. Accessibility Arrangements on the Site
+
+
+- Keyboard navigation support
+
+- Screen reader compatibility
+
+- Appropriate color contrast
+
+- Flexible and scalable font sizes
+
+- Descriptive image alt text
+
+- Hierarchical heading structure
+
+- Clear and descriptive links
+
+- Support for 200% zoom without content loss
+
+
+
+
+
+### WCAG 2.1 Compliance
+
+
+The website complies with WCAG 2.1 Level AA, which includes:
+
+
+- Perceivable: Information is presented in ways users can perceive
+
+- Operable: Interface components are operable
+
+- Understandable: Information and user interface are understandable
+
+- Robust: Content can be interpreted by a variety of technologies
+
+
+
+
+
+## 3. Supported Assistive Technologies
+
+
+- NVDA (Windows)
+
+- JAWS (Windows)
+
+- VoiceOver (Mac/iOS)
+
+- TalkBack (Android)
+
+- Dragon NaturallySpeaking
+
+- Switch navigation
+
+
+
+
+## 4. Accessibility Testing
+
+
+The website has been tested using:
+
+
+- Automated accessibility testing tools
+
+- Manual testing with screen readers
+
+- Keyboard-only navigation
+
+- Color contrast verification
+
+- Testing with users with disabilities
+
+
+
+
+## 5. Continuous Improvements
+
+
+We are continuously working to improve the accessibility of our website and update it according to technological developments and user feedback.
+
+
+
+## 6. Contact and Feedback
+
+
+If you encounter an accessibility issue on the site or need assistance, please contact us:
+
+
+- Company: MikeyGoldGrid
+
+- Email: [business_email]
+
+- Phone: [business_phone]
+
+
+
+Response time: We respond to accessibility inquiries within 3 business days and work to resolve issues within 10 business days.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Algorithmic trading precision. Gold-standard performance.
+
+
+
+
+
+
+#### Quick Links
+
+
+- Home
+
+- Performance
+
+- Setup
+
+- FAQ
+
+- Support
+
+- Contact
+
+
+
+
+
+
+
+#### Contact
+
+
+- [business_email]
+
+- [business_phone]
+
+- [business_address]
+
+
+
+
+
+
+
+#### Opening Hours
+
+
+- Mon–Fri 09:00–18:00
+
+- Sat 09:00–13:00
+
+- Sun Closed
+
+
+
+
+
+
+
+#### Follow Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 2026 MikeyGoldGrid. All rights reserved.
+
+
+
+Privacy Policy
+Terms & Conditions  |
+
+Return Policy
+
+Accessibility
+Generated by Zappy
+
+---
+
+## Terms & Conditions
+
+URL: https://mikeygoldgrid-0ee1d1c2.zappy5.app/terms
+Description: Terms of service - user rights and obligations
+
+Terms & Conditions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Products Products
+
+
+
+
+- Home
+- Performance
+- Setup
+- FAQ
+- Support
+- Contact
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Terms of Use
+
+
+
+Last updated:  July 16, 2026
+
+
+
+Use of this site constitutes agreement to the terms outlined below. Please read carefully before use.
+
+
+
+## 1. Definitions
+
+
+- "Company" - MikeyGoldGrid
+
+- "User" - Anyone who browses or uses the site
+
+- "Services" - Financial Technology / Algorithmic Trading provided through the site
+
+
+
+
+## 2. Description of Services
+
+
+MikeyGoldGrid provides Financial Technology / Algorithmic Trading through the site. The services are subject to the terms detailed in this document and may change from time to time.
+
+
+## 3. Terms of Use
+
+
+Use of the site is conditional on compliance with the following terms:
+
+
+- Use of the site for lawful purposes only
+
+- No interference with site operations or other users
+
+- No uploading of offensive, illegal, or harmful content
+
+- Respect for copyright and intellectual property rights
+
+- No actions that may compromise site security
+
+
+
+
+## 4. User Obligations
+
+
+- Providing accurate and truthful information during registration or ordering
+
+- Maintaining confidentiality of account access details
+
+- Immediate notification of any unauthorized account use
+
+- Updating personal information as needed
+
+
+
+
+## 5. Payment and Refund Policy
+
+
+If services include payment:
+
+
+- Payments are processed through secure and encrypted systems
+
+- Prices include applicable taxes as required by law
+
+- Right to cancel will be in accordance with consumer protection laws
+
+- Refunds will be processed within 14 business days of cancellation approval
+
+
+
+
+## 6. Limitation of Liability
+
+
+Services are provided "as is" without warranty of any kind. The Company will not be liable for indirect, consequential, or special damages arising from use of the site, except where required by law.
+
+
+## 7. Copyright and Intellectual Property
+
+
+All content on the site, including text, images, design, and code, is protected by copyright owned by MikeyGoldGrid. Reproduction, distribution, or commercial use of content is prohibited without written permission.
+
+
+## 8. Privacy
+
+
+Collection and use of personal information is subject to our Privacy Policy. Use of the site constitutes agreement to the Privacy Policy as detailed separately.
+
+
+## 9. Changes to Terms of Use
+
+
+The Company may change these terms of use at any time. Material changes will be posted on the site with 30 days advance notice. Continued use after changes constitutes agreement to the new terms.
+
+
+## 10. Service Termination
+
+
+The Company may suspend or limit service at any time, including in cases of terms of use violations. In case of service termination, relevant provisions will remain in effect.
+
+
+## 11. Governing Law and Dispute Resolution
+
+
+These terms of use are governed by applicable laws. Any disputes will be resolved in accordance with local jurisdiction, with preference given to arbitration or mediation where possible.
+
+
+## 12. General Provisions
+
+
+- If any portion of the terms is found invalid, remaining terms will remain in effect
+
+- Non-enforcement of a right will not be considered a waiver
+
+- These terms of use constitute the entire agreement between the parties
+
+
+
+
+
+## 13. Contact Information
+
+
+For questions or clarifications regarding the terms of use:
+
+
+- Company: MikeyGoldGrid
+
+- Email: [business_email]
+
+- Phone: [business_phone]
+
+- Address: [business_address]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Algorithmic trading precision. Gold-standard performance.
+
+
+
+
+
+
+#### Quick Links
+
+
+- Home
+
+- Performance
+
+- Setup
+
+- FAQ
+
+- Support
+
+- Contact
+
+
+
+
+
+
+
+#### Contact
+
+
+- [business_email]
+
+- [business_phone]
+
+- [business_address]
+
+
+
+
+
+
+
+#### Opening Hours
+
+
+- Mon–Fri 09:00–18:00
+
+- Sat 09:00–13:00
+
+- Sun Closed
+
+
+
+
+
+
+
+#### Follow Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 2026 MikeyGoldGrid. All rights reserved.
+
+
+
+Privacy Policy
+Terms & Conditions  |
+
+Return Policy
+
+Accessibility
+Generated by Zappy
+
+---
+
+## Thank You
+
+URL: https://mikeygoldgrid-0ee1d1c2.zappy5.app/thank-you
+Description: MikeyGoldGrid - Thank You
+
+Thank You
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Products Products
+
+
+
+
+- Home
+- Performance
+- Setup
+- FAQ
+- Support
+- Contact
+0
+
+
+
+
+
+
+
+
+
+
+
+
+Products
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Thank You
+
+
+
+### Your message has been received
+
+
+
+Your ticket number
+---
+
+
+
+
+We have received your message and will get back to you as soon as possible.
+
+
+
+Back to Home
+Contact Us Again
+
+
+
+
+
+
+
+
+
+
+
+
+Algorithmic trading precision. Gold-standard performance.
+
+
+
+
+
+
+#### Quick Links
+
+
+- Home
+
+- Performance
+
+- Setup
+
+- FAQ
+
+- Support
+
+- Contact
+
+
+
+
+
+
+
+#### Contact
+
+
+- [business_email]
+
+- [business_phone]
+
+- [business_address]
+
+
+
+
+
+
+
+#### Opening Hours
+
+
+- Mon–Fri 09:00–18:00
+
+- Sat 09:00–13:00
+
+- Sun Closed
+
+
+
+
+
+
+
+#### Follow Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 2026 MikeyGoldGrid. All rights reserved.
+
+
+
+Privacy Policy
+Terms & Conditions  |
+
+Return Policy
+
+Accessibility
+Generated by Zappy
+
+---
+

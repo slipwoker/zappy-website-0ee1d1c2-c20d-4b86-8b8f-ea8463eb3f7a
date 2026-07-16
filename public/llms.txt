@@ -1,0 +1,113 @@
+# MikeyGoldGrid — Generative Engine Optimization Map
+
+> MikeyGoldGrid is a sophisticated automated algorithmic trading Expert Advisor (EA) built for MetaTrader 5, specializing in gold (XAUUSD) trading using a grid-based strategy. The brand projects authority, precision, and profitability, targeting serious traders who want hands-free, data-driven trading performance. The product is positioned as a high-trust financial tool with a sleek, dark aesthetic that conveys professionalism and cutting-edge technology. The landing page is designed to convert visitors through compelling performance data, clear onboarding steps, and community-driven support.
+
+---
+
+## Pages
+
+### Home
+https://mikeygoldgrid-0ee1d1c2.zappy5.app
+Unlock hands-free gold trading with MikeyGoldGrid, the elite MT5 trading robot engineered for XAUUSD. Harness a data-driven grid strategy for consistent returns. Start your automated edge today.
+
+### Performance
+https://mikeygoldgrid-0ee1d1c2.zappy5.app/performance
+Dive into verified, real-time performance metrics of our MT5 trading robot on XAUUSD. See win rates, drawdowns, and monthly gains that prove algorithmic precision. Review the data now.
+
+### Setup
+https://mikeygoldgrid-0ee1d1c2.zappy5.app/setup
+Get your MT5 trading robot running on XAUUSD with our foolproof setup guide. From installation to first trade, launch your gold trading bot and let automation work while you sleep.
+
+### FAQ
+https://mikeygoldgrid-0ee1d1c2.zappy5.app/faq
+Get clear answers on how our MT5 trading robot navigates XAUUSD volatility. Explore risk logic, grid mechanics, and capital requirements so you can trade with total confidence. Learn more.
+
+### Support
+https://mikeygoldgrid-0ee1d1c2.zappy5.app/support
+Connect with elite traders and our expert team for seamless MT5 trading robot support. From optimization tips to technical fixes, we keep your XAUUSD automation running flawlessly. Get help now.
+
+### Contact
+https://mikeygoldgrid-0ee1d1c2.zappy5.app/contact
+Ready to elevate your XAUUSD strategy? Reach out to the minds behind MikeyGoldGrid, the premier MT5 trading robot. Let&#39;s discuss custom solutions, partnerships, or your trading goals. Inquire today.
+
+### Products
+https://mikeygoldgrid-0ee1d1c2.zappy5.app/products
+Our Products - MikeyGoldGrid
+
+### Cart
+https://mikeygoldgrid-0ee1d1c2.zappy5.app/cart
+Your Cart
+
+### Checkout
+https://mikeygoldgrid-0ee1d1c2.zappy5.app/checkout
+Checkout
+
+### Login
+https://mikeygoldgrid-0ee1d1c2.zappy5.app/login
+Customer Login
+
+### Account
+https://mikeygoldgrid-0ee1d1c2.zappy5.app/account
+My Account
+
+### Order Success
+https://mikeygoldgrid-0ee1d1c2.zappy5.app/order-success
+Thank you for your order
+
+### Product Detail
+https://mikeygoldgrid-0ee1d1c2.zappy5.app/product/:slug
+Product Details - MikeyGoldGrid
+
+### Category
+https://mikeygoldgrid-0ee1d1c2.zappy5.app/category/:slug
+Products - MikeyGoldGrid
+
+### Thank You
+https://mikeygoldgrid-0ee1d1c2.zappy5.app/thank-you
+MikeyGoldGrid - Thank You
+
+## Legal & Policy
+
+### Privacy Policy
+https://mikeygoldgrid-0ee1d1c2.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://mikeygoldgrid-0ee1d1c2.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://mikeygoldgrid-0ee1d1c2.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About MikeyGoldGrid
+MikeyGoldGrid is a sophisticated automated algorithmic trading Expert Advisor (EA) built for MetaTrader 5, specializing in gold (XAUUSD) trading using a grid-based strategy. The brand projects authority, precision, and profitability, targeting serious traders who want hands-free, data-driven trading performance. The product is positioned as a high-trust financial tool with a sleek, dark aesthetic that conveys professionalism and cutting-edge technology. The landing page is designed to convert visitors through compelling performance data, clear onboarding steps, and community-driven support.
+
+## Target Audience
+- Traders and investors using MetaTrader 5, particularly those interested in gold trading automation
+- Gold Trading Automation Enthusiasts
+- MetaTrader 5 Users
+- High-Frequency Traders
+
+## Industry
+Financial Technology / Algorithmic Trading
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://mikeygoldgrid-0ee1d1c2.zappy5.app/sitemap.xml
+- Robots: https://mikeygoldgrid-0ee1d1c2.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://mikeygoldgrid-0ee1d1c2.zappy5.app/llms-full.txt
+- Products (JSON): https://mikeygoldgrid-0ee1d1c2.zappy5.app/products.json
+- Products (Google Merchant RSS): https://mikeygoldgrid-0ee1d1c2.zappy5.app/product-feed.xml
